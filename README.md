@@ -1,1 +1,3 @@
-Projeto de calculadora da faculdade.
+# calculator
+
+College exercise.
